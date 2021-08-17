@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a frontend clone of the official website of Tesla, made using REACT JS and Material-UI. This is a highly dynamic and mobile responsive website that displays the basic functionalities one can show using REACT JS. 
+
 ## Available Scripts
 
 In the project directory, you can run:
